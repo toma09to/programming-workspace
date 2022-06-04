@@ -1,1 +1,0 @@
-/Users/toma09to/Documents/programming-workspace/Rust/The_book/chapter1/hello_cargo/target/debug/hello_cargo: /Users/toma09to/Documents/programming-workspace/Rust/The_book/chapter1/hello_cargo/src/main.rs
